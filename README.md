@@ -30,7 +30,7 @@ Here’s some resources to explore, and languages to learn in sequential order:
 
     * [Codeacademy](https://www.codecademy.com/learn/web) ←great and free, but there’s excellent paid options: [code school, or treehouse](https://www.reddit.com/r/learnprogramming/comments/1dvhrt/codecademy_vs_code_school_vs_treehouse/)
 
-    * [Flexboxfroggy](http://flexboxfroggy.com/) and/or [CSS Garden](http://cssgridgarden.com/)
+    * [Flexboxfroggy](http://flexboxfroggy.com/) and/or [CSS Garden](http://cssgridgarden.com/) + [CSS Grid Tutorial](https://mozilladevelopers.github.io/playground/)
 
     * Now make make a website on your computer through this [Codeacademy tutorial](https://www.codecademy.com/articles/local-web-page)!
 
