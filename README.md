@@ -10,7 +10,7 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 
     * Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!**
 
-* [Stack Overflow](https://stackoverflow.com/) - Search the error message you’re getting + stackoverflow on a google search
+* [Stack Overflow](https://stackoverflow.com/) - Search the error message you’re getting + stackoverflow on a google search. If there are no posts around your error message, feel free to ask for help.
 
 * Don’t be afraid to reference (or even simply explore) the [documentation](http://devdocs.io/ruby~2.4/) of the language you’re studying!
 
