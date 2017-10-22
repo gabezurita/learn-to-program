@@ -8,7 +8,7 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 
     * After being stuck for more than 10 minutes or three unsuccessful attempts, search Google for the specific error message or problem you’re attempting to solve.
 
-    * Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!**
+    * Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!** Don't copy/paste code, be sure to type it out.
 
 * [Stack Overflow](https://stackoverflow.com/) - Search the error message you’re getting + stackoverflow on a google search. If there are no posts around your error message, feel free to ask for help.
 
