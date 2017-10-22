@@ -74,19 +74,19 @@ Here’s some resources to explore, and languages to learn in sequential order:
 
     * [Build a ruby on rails web app!](https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/) -- the best way to learn is by making something!
 
-8. Computer Science & Additional Resources
+8. Additional Resources
 
     * [edEx course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 
     * [Online Community Resource (such as /r/learnprogramming)](https://www.reddit.com/r/learnprogramming/wiki/index)
-
-    * [Optoro’s Programming Resources](https://docs.google.com/document/d/1Pxwz6yInIWEotkpAKdV0urCrGPfFoHe039b5N4kQ6vw/edit#)
 
     * [Progressive Web Apps](https://developers.google.com/web/ilt/pwa/)
 
     * Programming Puzzles: [The Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) and [Bandit](http://overthewire.org/wargames/bandit/)
 
     * [Linux](https://bash.cyberciti.biz/guide/Main_Page)
+    
+    * Learning a javascript framework such as [Angular](https://thinkster.io/a-better-way-to-learn-angularjs) and then building a rails app with it is a good exercise. Once you've gotten past that, you can then [build a rails app with an Angular frontend](https://thinkster.io/tutorials/angular-rails).
 
 9. Next Steps
 
