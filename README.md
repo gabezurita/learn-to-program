@@ -13,7 +13,7 @@ Prior to beginning, it’s important to be aware of resources to help get you un
     
 * Typing code is an important aspect of learning to program. Do not copy/paste solutions you find on the internet, be sure to type them out.
 
-* [Stack Overflow](https://stackoverflow.com/) - Search the error message you’re getting + stackoverflow on a google search. If there are no posts around your error message, feel free to ask for help.
+* [Stack Overflow](https://stackoverflow.com/) - Search the error message you’re getting + stackoverflow on a google search. If there are no posts around your error message, feel free to ask for help on a new post. [Here's some guidelines on how ask for help on Stack Overflow](https://stackoverflow.com/help/how-to-ask).
 
 * Don’t be afraid to reference (or even simply explore) the [documentation](http://devdocs.io/ruby~2.4/) of the language you’re studying!
 
