@@ -8,17 +8,20 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 
     * After being stuck for more than 10 minutes or three unsuccessful attempts, search Google for the specific error message or problem you’re attempting to solve.
 
-    * Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!** Don't copy/paste code, be sure to type it out.
+    * Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!**
+    
+    
+    * Typing code is an important aspect of learning to program. Do not copy/paste solutions you find on the internet, be sure to type them out.
 
-* [Stack Overflow](https://stackoverflow.com/) - Search the error message you’re getting + stackoverflow on a google search. If there are no posts around your error message, feel free to ask for help.
+   * [Stack Overflow](https://stackoverflow.com/) - Search the error message you’re getting + stackoverflow on a google search. If there are no posts around your error message, feel free to ask for help.
 
-* Don’t be afraid to reference (or even simply explore) the [documentation](http://devdocs.io/ruby~2.4/) of the language you’re studying!
+   * Don’t be afraid to reference (or even simply explore) the [documentation](http://devdocs.io/ruby~2.4/) of the language you’re studying!
 
-* [Time Management - Pomodoro Timer](https://cirillocompany.de/pages/pomodoro-technique) - Generally speaking, it’s easy to get distracted or to spend one’s time inefficiently -- using the Pomodoro Technique will help you get more done. Here’s a useful [Pomodoro Cheatsheet](http://i.imgur.com/zB4YdEi.png)
+   * [Time Management - Pomodoro Timer](https://cirillocompany.de/pages/pomodoro-technique) - Generally speaking, it’s easy to get distracted or to spend one’s time inefficiently -- using the Pomodoro Technique will help you get more done. Here’s a useful [Pomodoro Cheatsheet](http://i.imgur.com/zB4YdEi.png)
 
-* Podcasts are a great way to get introduced to various tech topics. [Codenewbie](https://www.codenewbie.org/podcast) is a good one.
+   * Podcasts are a great way to get introduced to various tech topics. [Codenewbie](https://www.codenewbie.org/podcast) is a good one.
 
-* Get a text editor to edit code --  [Sublime Text](http://www.sublimetext.com/2) or [Atom](https://atom.io/) will do.
+   * Get a text editor to edit code --  [Sublime Text](http://www.sublimetext.com/2) or [Atom](https://atom.io/) will do.
 
 Here’s some resources to explore, and languages to learn in sequential order:
 
