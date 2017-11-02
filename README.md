@@ -87,6 +87,8 @@ Here’s some resources to explore, and languages to learn in sequential order:
 
     * Programming Puzzles: [The Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) and [Bandit](http://overthewire.org/wargames/bandit/)
 
+    * Programming Katas: [Code Wars](http://www.codewars.com/)
+    
     * [Linux](https://bash.cyberciti.biz/guide/Main_Page)
     
     * Learning a javascript framework such as [Angular](https://thinkster.io/a-better-way-to-learn-angularjs) and then building a rails app with it is a good exercise. Once you've gotten past that, you can then [build a rails app with an Angular frontend](https://thinkster.io/tutorials/angular-rails).
