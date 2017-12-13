@@ -4,9 +4,7 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 
 * Getting yourself unstuck:
 
-    * First, learn to [search google effectively](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/).
-
-    * As you're progressing through these tutorials, it's important to learn to get yourself unstuck. After being stuck for more than 10 minutes or three unsuccessful attempts, search Google for the specific error message or problem you’re attempting to solve. Be sure to have a thorough understanding of the error message you're resceiving.
+    * As you're progressing through these tutorials, you will at times find yourself unable to proceed without outside help. This happens to everyone. After being stuck for more than 10 minutes or three unsuccessful attempts, search Google for the specific error message or problem you’re attempting to solve. Be sure to have a thorough understanding of the error message you're resceiving. It is important to know how to [search google effectively](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/).
 
     * Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!**
     
