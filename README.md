@@ -2,7 +2,7 @@ Programming, like anything else, can be broken down into simple steps and learne
 
 Prior to beginning, it’s important to be aware of resources to help get you unstuck or to learn more:
 
-* [Google](https://www.google.com/)
+* Getting yourself unstuck:
 
     * First, learn to [search google effectively](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/).
 
