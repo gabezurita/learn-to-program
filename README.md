@@ -4,7 +4,7 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 
 * [Google](https://www.google.com/)
 
-    * First, learn to [search google effectively](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/)!
+    * First, learn to [search google effectively](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/).
 
     * After being stuck for more than 10 minutes or three unsuccessful attempts, search Google for the specific error message or problem you’re attempting to solve.
 
