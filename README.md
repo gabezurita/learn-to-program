@@ -1,3 +1,9 @@
+After finishing Dev Bootcamp and starting my first tech job, several friends have asked me for advice on beginning their web development journey, so I put together this readme for them.
+
+Most of these resources were acquiered at the code study group that I attend at my company, Optoro. Some also came from Dev Bootcamp, where I spent a good chunk of time learning to program -- this does not include everything I've learned, but I think this is a good foundation.
+
+If you think anything on this guide could be improved or should be changed, just make a pull request and/or email me at gabezurita@gmail.com.
+
 Programming, like anything else, can be broken down into simple steps and learned by most anyone.
 
 Prior to beginning, it’s important to be aware of resources to help get you unstuck or to learn more:
