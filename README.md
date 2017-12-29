@@ -1,10 +1,10 @@
 # Web Development Basics
 
-After finishing Dev Bootcamp and starting my first tech job, several friends have asked me for advice on beginning their web development journey, so I put together this readme for them.
+Since finishing Dev Bootcamp and starting my first tech job at Optoro, several friends have asked me for tips on beginning their web development journey. Since I found myself giving the same advice repeatedly, I put together this readme to be a bit more [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) with my life. I'm sure there are plenty of other guides on the web, but I wanted to give it a shot and make my own.
 
-Most of these resources were acquiered at the code study group that I attend at my company, Optoro. Some also came from Dev Bootcamp, where I spent a good chunk of time learning to program -- this does not include everything I've learned, but I think this is a good foundation.
+Most of these resources were found at the code study group that I attend at my company, Optoro. Some came from Dev Bootcamp, where I spent a good chunk of time getting better at programming -- this does not include everything I've learned, but I think it's a good foundation.
 
-If you think anything on this guide could be improved or should be changed, just make a pull request and/or email me at gabezurita@gmail.com.
+If you think anything on this guide could be improved or should be changed, just make a pull request and/or email me at gabezurita@gmail.com. Here goes!
 
 Programming, like anything else, can be broken down into simple steps and learned by most anyone.
 
