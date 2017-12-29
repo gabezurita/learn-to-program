@@ -1,3 +1,5 @@
+# Web Development Basics
+
 After finishing Dev Bootcamp and starting my first tech job, several friends have asked me for advice on beginning their web development journey, so I put together this readme for them.
 
 Most of these resources were acquiered at the code study group that I attend at my company, Optoro. Some also came from Dev Bootcamp, where I spent a good chunk of time learning to program -- this does not include everything I've learned, but I think this is a good foundation.
@@ -29,11 +31,11 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 
 Here’s some resources to explore, and languages to learn in sequential order:
 
-1. Web Basics
+# 1. Web Basics
 
     * Get a general idea of how the web works by exploring the [DBC materials under Web Basics](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md#web-basics)
 
-2. [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/) -- HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Check [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss) for more info.
+# 2. [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/) -- HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Check [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss) for more info.
 
     * [Codeacademy](https://www.codecademy.com/learn/web) ←great and free, but there’s excellent paid options: [code school, or treehouse](https://www.reddit.com/r/learnprogramming/comments/1dvhrt/codecademy_vs_code_school_vs_treehouse/)
 
@@ -41,7 +43,7 @@ Here’s some resources to explore, and languages to learn in sequential order:
 
     * Now make make a website on your computer through this [Codeacademy tutorial](https://www.codecademy.com/articles/local-web-page)!
 
-3. [Javascript](http://devdocs.io/javascript/)
+# 3. [Javascript](http://devdocs.io/javascript/)
 
     * [Codeacademy](https://www.codecademy.com/learn/javascript) and/or [Eloquent in Javascript](http://eloquentjavascript.net/)
 
@@ -49,7 +51,7 @@ Here’s some resources to explore, and languages to learn in sequential order:
 
     * [A good javascript book](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md#web-basics)
 
-4. [Ruby](http://devdocs.io/ruby/) -- feel free to go work on these things at a programming meetup such as [this one](https://www.meetup.com/dcruby/)!
+# 4. [Ruby](http://devdocs.io/ruby/) -- feel free to go work on these things at a programming meetup such as [this one](https://www.meetup.com/dcruby/)!
 
     * [Codeacademy](https://www.codecademy.com/learn/learn-rails) (it’s good to know [how to read Ruby error messages](https://learn.co/lessons/ruby-lecture-reading-error-messages) for this)
 
@@ -63,15 +65,15 @@ Here’s some resources to explore, and languages to learn in sequential order:
 
     * [Exercism -- more difficult exercises](http://exercism.io/languages/ruby/about) -- feel free to skip for now and come back to it later
 
-5. SQL
+# 5. SQL
 
     * [Codeacademy](https://www.codecademy.com/learn/learn-sql) and [relevant section in the DBC resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md#SQL-and-Databases).
 
-6. Github
+# 6. Github
 
     * [Learn git workflow by exploring the DBC materials](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md#github)
 
-7. [Ruby on Rails](http://devdocs.io/rails/)
+# 7. [Ruby on Rails](http://devdocs.io/rails/)
 
     * [Codeacademy](https://www.codecademy.com/learn/learn-rails)
 
@@ -81,7 +83,7 @@ Here’s some resources to explore, and languages to learn in sequential order:
 
     * [Build a ruby on rails web app!](https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/) -- the best way to learn is by making something!
 
-8. Additional Resources
+# 8. Additional Resources
 
     * [edEx course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 
@@ -97,7 +99,7 @@ Here’s some resources to explore, and languages to learn in sequential order:
     
     * Learning a javascript framework such as [Angular](https://thinkster.io/a-better-way-to-learn-angularjs) and then building a rails app with it is a good exercise. Once you've gotten past that, you can then [build a rails app with an Angular frontend](https://thinkster.io/tutorials/angular-rails).
 
-9. Next Steps
+# 9. Next Steps
 
     * Volunteer in a programming project through the [Code for America Brigade](http://brigade.codeforamerica.org/brigade/)
 
