@@ -35,8 +35,7 @@ Here’s some resources to explore, and languages to learn in sequential order:
 
     * Get a general idea of how the web works by exploring the [DBC materials under Web Basics](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md#web-basics)
 
-2. [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/)
-HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies of hte web and for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Check [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss) for more info.
+2. [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/) -- HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies of hte web and for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Check [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss) for more info.
 
     * [Codeacademy](https://www.codecademy.com/learn/web) ←great and free, but there’s excellent paid options: [code school, or treehouse](https://www.reddit.com/r/learnprogramming/comments/1dvhrt/codecademy_vs_code_school_vs_treehouse/)
 
