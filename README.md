@@ -21,6 +21,8 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 
 * [Stack Overflow](https://stackoverflow.com/) - Search the error message you’re getting + stackoverflow on a google search. If there are no posts around your error message, feel free to ask for help on a new post. [Here's some guidelines on how ask for help on Stack Overflow](https://stackoverflow.com/help/how-to-ask).
 
+* Be sure to get connected to other people who are attempting to learn. There's lots of online communities, e.g. [DCTech Slack](http://www.dctechslack.com/).
+
 * Don’t be afraid to reference (or even simply explore) the [documentation](http://devdocs.io/ruby~2.4/) of the language you’re studying!
 
 * [Time Management - Pomodoro Timer](https://cirillocompany.de/pages/pomodoro-technique) - Generally speaking, it’s easy to get distracted or to spend one’s time inefficiently -- using the Pomodoro Technique will help you get more done. Here’s a useful [Pomodoro Cheatsheet](http://i.imgur.com/zB4YdEi.png)
