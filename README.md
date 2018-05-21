@@ -69,7 +69,8 @@ Here’s some resources to explore, and languages to learn in sequential order:
 
 5. SQL
 
-    * [Codeacademy](https://www.codecademy.com/learn/learn-sql) and [relevant section in the DBC resources](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md#SQL-and-Databases).
+    * [Codeacademy](https://www.codecademy.com/learn/learn-sql) and/or [this well made SQL tutorial](http://sqlzoo.net/wiki/SELECT_basics).
+    * If you'd like to go more in depth, there's some free, [self-paced Stanford SQL classes](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about) you can explore.
 
 6. Github
 
