@@ -15,10 +15,10 @@ Prior to beginning, it’s important to be aware of resources to help get you un
     * As you're progressing through these tutorials, you will at times find yourself unable to proceed without outside help. This is normal. After being stuck for more than 10 minutes or three unsuccessful attempts, search Google for the specific error message or problem you’re attempting to solve. To do this effectively, here's a few [Google search tips](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/).
    
    * [Stack Overflow](https://stackoverflow.com/) - for a more focused google search, input the error message you’re getting and limit the search to stackoverflow by including "site:stackoverflow.com" in your search string--see [this link](https://www.google.com/search?ei=PRJWW5DJOMjBjwTW2oqAAw&q=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&oq=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&gs_l=psy-ab.3...9291.9872..10082...0.0...106.465.4j1......0....1..gws-wiz.......0i71.EoxpbF8ncwE) for an example. If there are no posts around your error message, feel free to create a new post asking for help. [Here's some guidelines on how ask for help on Stack Overflow](https://stackoverflow.com/help/how-to-ask).
-
-    * Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!**
     
    * Typing code to learn syntax is an important aspect of learning to program. Do not copy/paste solutions you find on the internet, be sure to type them out.
+
+    * Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!**
 
 * Get connected to other people who are attempting to learn. There's lots of online and in-person communities, e.g. [DCTech Slack](http://www.dctechslack.com/) and [DC Code Newbie Meetup](https://www.meetup.com/CodeNewbie-DC/).
 
