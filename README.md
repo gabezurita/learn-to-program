@@ -1,8 +1,8 @@
 # Web Development Basics
 
-Since finishing Dev Bootcamp and starting my first tech job at Optoro, several friends have asked me for tips on beginning their web development journey. Since I found myself giving the same advice repeatedly, I put together this readme to be a bit more [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) with my life. I'm sure there are plenty of other guides on the web, but I wanted to give it a shot and make my own.
+Since finishing Dev Bootcamp and starting my first tech job at Optoro, several friends have asked me for tips on beginning their web development journey. Since I found myself giving the same advice repeatedly, I put together this readme to be a bit more [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) with my life.
 
-Most of these resources were found at the code study group that I attend at my company, Optoro. Some came from Dev Bootcamp, where I spent a good chunk of time getting better at programming -- this does not include everything I've learned, but I think it's a good foundation.
+Most of these resources were found at the code study group that I attend at my company, Optoro. Some came from Dev Bootcamp, where I spent a good chunk of time getting better at programming -- this does not include everything I've learned, but I think it's a good start.
 
 If you think anything on this guide could be improved or should be changed, just make a pull request and/or email me at gabezurita@gmail.com. Here goes!
 
@@ -12,30 +12,33 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 
 * Getting yourself unstuck:
 
-    * As you're progressing through these tutorials, you will at times find yourself unable to proceed without outside help. This happens to everyone. After being stuck for more than 10 minutes or three unsuccessful attempts, search Google for the specific error message or problem you’re attempting to solve. To do this effectively, here's a few [Google search tips](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/).
+    * As you're progressing through these tutorials, you will at times find yourself unable to proceed without outside help. This is normal. After being stuck for more than 10 minutes or three unsuccessful attempts, search Google for the specific error message or problem you’re attempting to solve. To do this effectively, here's a few [Google search tips](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/).
+   
+   * [Stack Overflow](https://stackoverflow.com/) - for a more focused google search, input the error message you’re getting and limit the search to stackoverflow by including "site:stackoverflow.com" in your search string--see [this link](https://www.google.com/search?ei=PRJWW5DJOMjBjwTW2oqAAw&q=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&oq=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&gs_l=psy-ab.3...9291.9872..10082...0.0...106.465.4j1......0....1..gws-wiz.......0i71.EoxpbF8ncwE) for an example. If there are no posts around your error message, feel free to create a new post asking for help. [Here's some guidelines on how ask for help on Stack Overflow](https://stackoverflow.com/help/how-to-ask).
 
     * Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!**
     
-    
-* Typing code is an important aspect of learning to program. Do not copy/paste solutions you find on the internet, be sure to type them out.
+   * Typing code to learn syntax is an important aspect of learning to program. Do not copy/paste solutions you find on the internet, be sure to type them out.
 
-* [Stack Overflow](https://stackoverflow.com/) - Search the error message you’re getting + stackoverflow on a google search. If there are no posts around your error message, feel free to ask for help on a new post. [Here's some guidelines on how ask for help on Stack Overflow](https://stackoverflow.com/help/how-to-ask).
+* Get connected to other people who are attempting to learn. There's lots of online and in-person communities, e.g. [DCTech Slack](http://www.dctechslack.com/) and [DC Code Newbie Meetup](https://www.meetup.com/CodeNewbie-DC/).
 
-* Be sure to get connected to other people who are attempting to learn. There's lots of online communities, e.g. [DCTech Slack](http://www.dctechslack.com/).
-
-* Don’t be afraid to reference (or even simply explore) the [documentation](http://devdocs.io/ruby~2.4/) of the language you’re studying!
+* Don’t be afraid to reference (or even simply explore) the [documentation](http://devdocs.io/ruby~2.4/) of the language you’re studying.
 
 * [Time Management - Pomodoro Timer](https://cirillocompany.de/pages/pomodoro-technique) - Generally speaking, it’s easy to get distracted or to spend one’s time inefficiently -- using the Pomodoro Technique will help you get more done. Here’s a useful [Pomodoro Cheatsheet](http://i.imgur.com/zB4YdEi.png)
 
-* Podcasts are a great way to get introduced to various tech topics. [Codenewbie](https://www.codenewbie.org/podcast) is a good one.
+* Podcasts are a great way to get introduced to various tech topics. [Codenewbie](https://www.codenewbie.org/podcast) is a excellent for new developers.
 
-* Get a text editor to edit code --  [Sublime Text](http://www.sublimetext.com/2) or [Atom](https://atom.io/) will do.
+* Get a text editor to edit code --  [Sublime Text](http://www.sublimetext.com/2) or [Atom](https://atom.io/) are easy ones to learn, but there's many alternatives out there.
 
 Here’s some resources to explore, and languages to learn in sequential order:
 
-1. Web Basics
-
-    * Get a general idea of how the web works by exploring the [DBC materials under Web Basics](https://github.com/Devbootcamp/phase-0-handbook/blob/master/resources.md#web-basics)
+1. Web Basics (from DBC)
+* Watch: The Internet -- <a href="https://www.youtube.com/watch?v=AEaKrq3SpW8" target="_blank">How does it work?</a>
+* Read: Web concepts -- <a href="http://skillcrush.com/2012/08/19/the-internet-vs-the-web/" target="_blank">Internet vs. Web</a>, <a href="http://skillcrush.com/2012/10/01/web-browsers/" target="_blank">Web Browser</a>, <a href="http://skillcrush.com/2012/07/03/web-server-2/" target="_blank">Web Server</a>
+* Read: <a href="http://skillcrush.com/2013/03/28/websites-vs-web-applications/" target="_blank">Web site vs Web App</a>
+* Read: Domain concepts -- <a href="http://skillcrush.com/2012/04/24/dns/" target="_blank">DNS</a>, <a href="http://skillcrush.com/2012/07/03/ip-address-2/" target="_blank">IP Address</a>
+* Read: <a href="http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/" target="_blank">Introduction to DNS</a>
+* Read: <a href="http://skillcrush.com/2012/04/02/html/" target="_blank">What's HTML?</a>
 
 2. [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/) -- HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies of hte web and for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Check [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss) for more info.
 
