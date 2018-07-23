@@ -33,12 +33,12 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 Here’s some resources to explore, and languages to learn in sequential order:
 
 1. Web Basics (from DBC)
-* Watch: The Internet -- <a href="https://www.youtube.com/watch?v=AEaKrq3SpW8" target="_blank">How does it work?</a>
-* Read: Web concepts -- <a href="http://skillcrush.com/2012/08/19/the-internet-vs-the-web/" target="_blank">Internet vs. Web</a>, <a href="http://skillcrush.com/2012/10/01/web-browsers/" target="_blank">Web Browser</a>, <a href="http://skillcrush.com/2012/07/03/web-server-2/" target="_blank">Web Server</a>
-* Read: <a href="http://skillcrush.com/2013/03/28/websites-vs-web-applications/" target="_blank">Web site vs Web App</a>
-* Read: Domain concepts -- <a href="http://skillcrush.com/2012/04/24/dns/" target="_blank">DNS</a>, <a href="http://skillcrush.com/2012/07/03/ip-address-2/" target="_blank">IP Address</a>
-* Read: <a href="http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/" target="_blank">Introduction to DNS</a>
-* Read: <a href="http://skillcrush.com/2012/04/02/html/" target="_blank">What's HTML?</a>
+   * Watch: The Internet -- <a href="https://www.youtube.com/watch?v=AEaKrq3SpW8" target="_blank">How does it work?</a>
+   * Read: Web concepts -- <a href="http://skillcrush.com/2012/08/19/the-internet-vs-the-web/" target="_blank">Internet vs. Web</a>, <a href="http://skillcrush.com/2012/10/01/web-browsers/" target="_blank">Web Browser</a>, <a href="http://skillcrush.com/2012/07/03/web-server-2/" target="_blank">Web Server</a>
+   * Read: <a href="http://skillcrush.com/2013/03/28/websites-vs-web-applications/" target="_blank">Web site vs Web App</a>
+   * Read: Domain concepts -- <a href="http://skillcrush.com/2012/04/24/dns/" target="_blank">DNS</a>, <a href="http://skillcrush.com/2012/07/03/ip-address-2/" target="_blank">IP Address</a>
+   * Read: <a href="http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/" target="_blank">Introduction to DNS</a>
+   * Read: <a href="http://skillcrush.com/2012/04/02/html/" target="_blank">What's HTML?</a>
 
 2. [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/) -- HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies of hte web and for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Check [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss) for more info.
 
