@@ -90,6 +90,8 @@ Here’s some resources to explore, and languages to learn in sequential order:
     * [Build a ruby on rails web app!](https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/) -- the best way to learn is by making something!
 
 8. Additional Resources
+    
+    * This [reddit post](https://amp.reddit.com/r/learnprogramming/comments/43dvma/best_online_courses_you_took/) has some great Computer Science courses
 
     * [edEx course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 
