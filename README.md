@@ -21,33 +21,33 @@ As you're progressing through these tutorials, you will at times find yourself u
 * Podcasts are a great way to get introduced to various tech topics. [Codenewbie](https://www.codenewbie.org/podcast) is a excellent for new developers.
 * Get a text editor to edit code – [Atom](https://atom.io/) is a good one, but there's many alternatives out there.
 
-## Web Development Concepts and Languages
+# Concepts and Languages
 Here’s some resources to explore, and languages to learn (from top to bottom):
 
-### Web Basics
-Let's learn about the infrastructure web apps run on
-   * Watch: The Internet -- <a href="https://www.youtube.com/watch?v=AEaKrq3SpW8" target="_blank">How does it work?</a>
-   * Read: Web concepts -- <a href="http://skillcrush.com/2012/08/19/the-internet-vs-the-web/" target="_blank">Internet vs. Web</a>, <a href="http://skillcrush.com/2012/10/01/web-browsers/" target="_blank">Web Browser</a>, <a href="http://skillcrush.com/2012/07/03/web-server-2/" target="_blank">Web Server</a>
-   * Read: <a href="http://skillcrush.com/2013/03/28/websites-vs-web-applications/" target="_blank">Web site vs Web App</a>
-   * Read: Domain concepts -- <a href="http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/" target="_blank">DNS intro</a>, <a href="http://skillcrush.com/2012/04/24/dns/" target="_blank">DNS in-depth</a>, <a href="http://skillcrush.com/2012/07/03/ip-address-2/" target="_blank">IP Address</a>
-   * Read: <a href="http://skillcrush.com/2012/04/02/html/" target="_blank">What's HTML?</a>
+## Web Infrastructure
+Let's learn about the infrastructure apps run on
+* Watch: The Internet -- <a href="https://www.youtube.com/watch?v=AEaKrq3SpW8" target="_blank">How does it work?</a>
+* Read: Web concepts -- <a href="http://skillcrush.com/2012/08/19/the-internet-vs-the-web/" target="_blank">Internet vs. Web</a>, <a href="http://skillcrush.com/2012/10/01/web-browsers/" target="_blank">Web Browser</a>, <a href="http://skillcrush.com/2012/07/03/web-server-2/" target="_blank">Web Server</a>
+* Read: <a href="http://skillcrush.com/2013/03/28/websites-vs-web-applications/" target="_blank">Web site vs Web App</a>
+* Read: Domain concepts -- <a href="http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/" target="_blank">DNS intro</a>, <a href="http://skillcrush.com/2012/04/24/dns/" target="_blank">DNS in-depth</a>, <a href="http://skillcrush.com/2012/07/03/ip-address-2/" target="_blank">IP Address</a>
+* Read: <a href="http://skillcrush.com/2012/04/02/html/" target="_blank">What's HTML?</a>
 
 As an alternative course to any of the below: Udemy has excellent content, though their courses tend to be expensive. Be sure to look for sales there, you can regularly get $200 courses for only $10 (yes, 95% off!). I repeat, do not pay full price, as [Udemy regularly has sales](https://www.reddit.com/r/learnprogramming/comments/6rc5tf/how_often_do_udemy_courses_go_on_sale/) (like a mattress store).
 
-### [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/)
+## [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/)
 HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies of the web. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Check [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss) for more info.
-    * [Codeacademy](https://www.codecademy.com/learn/web) ←great and free, but there’s excellent paid options: [code school, or treehouse](https://www.reddit.com/r/learnprogramming/comments/1dvhrt/codecademy_vs_code_school_vs_treehouse/)
-    * [Flexboxfroggy](http://flexboxfroggy.com/) and/or [CSS Garden](http://cssgridgarden.com/) + [CSS Grid Tutorial](https://mozilladevelopers.github.io/playground/)
-    * Now make make a website on your computer through this [Codeacademy tutorial](https://www.codecademy.com/articles/local-web-page)!
+* [Codeacademy](https://www.codecademy.com/learn/web) ←great and free, but there’s excellent paid options: [code school, or treehouse](https://www.reddit.com/r/learnprogramming/comments/1dvhrt/codecademy_vs_code_school_vs_treehouse/)
+* [Flexboxfroggy](http://flexboxfroggy.com/) and/or [CSS Garden](http://cssgridgarden.com/) + [CSS Grid Tutorial](https://mozilladevelopers.github.io/playground/)
+* Now make make a website on your computer through this [Codeacademy tutorial](https://www.codecademy.com/articles/local-web-page)!
 
-### [JavaScript | ECMAScript](http://devdocs.io/javascript/)
+## [JavaScript | ECMAScript](http://devdocs.io/javascript/)
 The programming language the web (currently) runs on. Here's [some good reasons to learn it](http://www.bestprogramminglanguagefor.me/why-learn-javascript).
 * [Codeacademy](https://www.codecademy.com/learn/javascript) - Free course and a good enough intro
 * [Javascript30](https://javascript30.com/) - 30 days of free, JS code challenges by [Wes Bos](https://twitter.com/wesbos)
 * [ES6.io](https://es6.io/) - Excellent, paid, JavaScript course (also by the above author)  
 * [Eloquent in Javascript](http://eloquentjavascript.net/) - Great JS book, though a perhaps too detailed for an intro
 
-### [Ruby](http://devdocs.io/ruby/)
+## [Ruby](http://devdocs.io/ruby/)
 A beginner friendly programming language for the back-end. Feel free to go work on these things at a programming meetup such as [this one](https://www.meetup.com/dcruby/)!
 * [Codeacademy](https://www.codecademy.com/learn/learn-rails) (it’s good to know [how to read Ruby error messages](https://learn.co/lessons/ruby-lecture-reading-error-messages) for this)
 * [A good article giving you a general outlook on Ruby](https://hackhands.com/beginners-guide-ruby/)
@@ -56,25 +56,23 @@ A beginner friendly programming language for the back-end. Feel free to go work 
 * Learn a little more about Ruby through [Ruby Koans](http://rubykoans.com/) -- or feel free to come back to this later
 * [Exercism -- more difficult exercises](http://exercism.io/languages/ruby/about) -- feel free to skip for now and come back to it later
 
-### [SQL](https://www.reddit.com/r/explainlikeimfive/comments/1jid0b/eli5_what_is_a_database_and_what_is_sql_language/)
+## [SQL](https://www.reddit.com/r/explainlikeimfive/comments/1jid0b/eli5_what_is_a_database_and_what_is_sql_language/)
 It's important to learn to work with data (the backbone of the tech world)
 * [Codeacademy](https://www.codecademy.com/learn/learn-sql) and/or [this well made SQL tutorial](http://sqlzoo.net/wiki/SELECT_basics).
 * If you'd like to go more in depth, there's some free, [self-paced Stanford SQL classes](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about) you can explore.
 
-### [Git](https://guides.github.com/introduction/git-handbook/)
+## [Git](https://guides.github.com/introduction/git-handbook/)
 Managaging changes in app development
 * [Tutorial](https://learngitbranching.js.org/)—some useful resources on [the site](http://try.github.io/).
 * [Thoughtbot video on how git is used in some tech companies](https://thoughtbot.com/upcase/videos/git-workflow)
 
-### [Ruby on Rails](http://devdocs.io/rails/)
+## [Ruby on Rails](http://devdocs.io/rails/)
 Let's start making web apps!
 * [Codeacademy](https://www.codecademy.com/learn/learn-rails)
 * Buy a Used or Refurbished [Macbook](https://www.amazon.com/Apple-MacBook-15-4-Inch-Laptop-Yosemite/dp/B00PZLRWVE/ref=pd_sbs_147_4?_encoding=UTF8&pd_rd_i=B00PZLRWVE&pd_rd_r=4S2TWVDYFN5F2HC06GTY&pd_rd_w=yYbjY&pd_rd_wg=cWZlC&psc=1&refRID=4S2TWVDYFN5F2HC06GTY) and [set up your dev environment](https://github.com/codehbs/computer-setup/blob/master/mac-instructions.md)
 * Get more Rails practice through [Rails for Zombies](http://railsforzombies.org/)
 * [Build a ruby on rails web app!](https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/) -- the best way to learn is by making something!
-
 ___
-
 ## Additional Resources
 * This [reddit post](https://amp.reddit.com/r/learnprogramming/comments/43dvma/best_online_courses_you_took/) has some great Computer Science courses
 * [edEx course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
