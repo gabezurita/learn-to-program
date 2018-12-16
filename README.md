@@ -21,7 +21,7 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 
 Here’s some resources to explore, and languages to learn in sequential order:
 
-1. Web Basics (from DBC)
+1. Web Basics (from DBC) – let's learn about the infrastructure web apps run on
    * Watch: The Internet -- <a href="https://www.youtube.com/watch?v=AEaKrq3SpW8" target="_blank">How does it work?</a>
    * Read: Web concepts -- <a href="http://skillcrush.com/2012/08/19/the-internet-vs-the-web/" target="_blank">Internet vs. Web</a>, <a href="http://skillcrush.com/2012/10/01/web-browsers/" target="_blank">Web Browser</a>, <a href="http://skillcrush.com/2012/07/03/web-server-2/" target="_blank">Web Server</a>
    * Read: <a href="http://skillcrush.com/2013/03/28/websites-vs-web-applications/" target="_blank">Web site vs Web App</a>
@@ -35,13 +35,13 @@ As an alternative course to any of the below: Udemy has excellent content, thoug
     * [Flexboxfroggy](http://flexboxfroggy.com/) and/or [CSS Garden](http://cssgridgarden.com/) + [CSS Grid Tutorial](https://mozilladevelopers.github.io/playground/)
     * Now make make a website on your computer through this [Codeacademy tutorial](https://www.codecademy.com/articles/local-web-page)!
 
-3. [JavaScript | ECMAScript](http://devdocs.io/javascript/)
+3. [JavaScript | ECMAScript](http://devdocs.io/javascript/) – the programming language the web (currently) runs on. Here's [some good reasons to learn it](http://www.bestprogramminglanguagefor.me/why-learn-javascript).
     * [Codeacademy](https://www.codecademy.com/learn/javascript) - Free course and a good enough intro
     * [Javascript30](https://javascript30.com/) - 30 days of free, JS code challenges by [Wes Bos](https://twitter.com/wesbos)
     * [ES6.io](https://es6.io/) - Excellent, paid, JavaScript course (also by the above author)  
     * [Eloquent in Javascript](http://eloquentjavascript.net/) - Great JS book, though a perhaps too detailed for an intro
 
-4. [Ruby](http://devdocs.io/ruby/) – feel free to go work on these things at a programming meetup such as [this one](https://www.meetup.com/dcruby/)!
+4. [Ruby](http://devdocs.io/ruby/) – a beginner friendly programming language for the back-end. Feel free to go work on these things at a programming meetup such as [this one](https://www.meetup.com/dcruby/)!
     * [Codeacademy](https://www.codecademy.com/learn/learn-rails) (it’s good to know [how to read Ruby error messages](https://learn.co/lessons/ruby-lecture-reading-error-messages) for this)
     * [A good article giving you a general outlook on Ruby](https://hackhands.com/beginners-guide-ruby/)
     * [Ruby Essential Training](https://www.lynda.com/Ruby-tutorials/essential-training/47905-2.html?srchtrk=index:1%0Alinktypeid:2%0Aq:ruby%0Apage:1%0As:relevance%0Asa:true%0Aproducttypeid:2)
@@ -49,16 +49,15 @@ As an alternative course to any of the below: Udemy has excellent content, thoug
     * Learn a little more about Ruby through [Ruby Koans](http://rubykoans.com/) -- or feel free to come back to this later
     * [Exercism -- more difficult exercises](http://exercism.io/languages/ruby/about) -- feel free to skip for now and come back to it later
 
-5. SQL
+5. [SQL](https://www.reddit.com/r/explainlikeimfive/comments/1jid0b/eli5_what_is_a_database_and_what_is_sql_language/) - it's important to learn to work with data (the backbone of the tech world)
     * [Codeacademy](https://www.codecademy.com/learn/learn-sql) and/or [this well made SQL tutorial](http://sqlzoo.net/wiki/SELECT_basics).
     * If you'd like to go more in depth, there's some free, [self-paced Stanford SQL classes](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about) you can explore.
 
-6. Git
-    * [Intro](https://guides.github.com/introduction/git-handbook/)
+6. [Git](https://guides.github.com/introduction/git-handbook/) – managaging changes in app development
     * [Tutorial](https://learngitbranching.js.org/)—some useful resources on [the site](http://try.github.io/).
     * [Thoughtbot video on how git is used in some tech companies](https://thoughtbot.com/upcase/videos/git-workflow)
 
-7. [Ruby on Rails](http://devdocs.io/rails/)
+7. [Ruby on Rails](http://devdocs.io/rails/) - let's start making web apps!
     * [Codeacademy](https://www.codecademy.com/learn/learn-rails)
     * Buy a Used or Refurbished [Macbook](https://www.amazon.com/Apple-MacBook-15-4-Inch-Laptop-Yosemite/dp/B00PZLRWVE/ref=pd_sbs_147_4?_encoding=UTF8&pd_rd_i=B00PZLRWVE&pd_rd_r=4S2TWVDYFN5F2HC06GTY&pd_rd_w=yYbjY&pd_rd_wg=cWZlC&psc=1&refRID=4S2TWVDYFN5F2HC06GTY) and [set up your dev environment](https://github.com/codehbs/computer-setup/blob/master/mac-instructions.md)
     * Get more Rails practice through [Rails for Zombies](http://railsforzombies.org/)
