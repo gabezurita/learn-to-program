@@ -21,6 +21,9 @@ As you're progressing through these tutorials, you will at times find yourself u
 * Podcasts are a great way to get introduced to various tech topics. [Codenewbie](https://www.codenewbie.org/podcast) is a excellent for new developers.
 * Get a text editor to edit code – [Atom](https://atom.io/) is a good one, but there's many alternatives out there.
 
+## Web Development Concepts and Languages
+Here’s some resources to explore, and languages to learn (from top to bottom):
+
 ### Web Basics
 Let's learn about the infrastructure web apps run on
    * Watch: The Internet -- <a href="https://www.youtube.com/watch?v=AEaKrq3SpW8" target="_blank">How does it work?</a>
