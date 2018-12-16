@@ -73,7 +73,9 @@ Let's start making web apps!
 * Get more Rails practice through [Rails for Zombies](http://railsforzombies.org/)
 * [Build a ruby on rails web app!](https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/) -- the best way to learn is by making something!
 
-### Additional Resources
+___
+
+## Additional Resources
 * This [reddit post](https://amp.reddit.com/r/learnprogramming/comments/43dvma/best_online_courses_you_took/) has some great Computer Science courses
 * [edEx course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * [Online Community Resource (such as /r/learnprogramming)](https://www.reddit.com/r/learnprogramming/wiki/index)
@@ -83,6 +85,6 @@ Let's start making web apps!
 * [Linux](https://bash.cyberciti.biz/guide/Main_Page)
 * Learning a javascript framework such as [Angular](https://thinkster.io/a-better-way-to-learn-angularjs) and then building a rails app with it is a good exercise. Once you've gotten past that, you can then [build a rails app with an Angular frontend](https://thinkster.io/tutorials/angular-rails).
 
-### Next Steps
+## Next Steps
 * Volunteer in a programming project through the [Code for America Brigade](http://brigade.codeforamerica.org/brigade/)
 * Contribute to an [open source project](https://github.com/MunGell/awesome-for-beginners)
