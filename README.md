@@ -40,6 +40,7 @@ Let's learn about the infrastructure apps run on
 * Read: Domain concepts -- <a href="http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/" target="_blank">DNS intro</a>, <a href="http://skillcrush.com/2012/04/24/dns/" target="_blank">DNS in-depth</a>, <a href="http://skillcrush.com/2012/07/03/ip-address-2/" target="_blank">IP Address</a>
 * Read: <a href="http://skillcrush.com/2012/04/02/html/" target="_blank">What's HTML?</a>
 
+## Web Development
 Now, on to the nitty gritty: web developemnt! In the below section, I've linked various free online courses. As an alternative to any of the below, Udemy has excellent content, though their courses tend to be expensive. Be sure to look for sales there–you can regularly get $200 courses for only $10 (yes, 95% off!). Do not pay full price, as [Udemy regularly has sales](https://www.reddit.com/r/learnprogramming/comments/6rc5tf/how_often_do_udemy_courses_go_on_sale/) (just like a mattress store).
 
 ## [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/)
