@@ -4,7 +4,7 @@ Since finishing Dev Bootcamp and starting my first tech job at Optoro, several f
 
 Most of these resources were found at the code study group that I attend at my company, Optoro. Some came from Dev Bootcamp, where I spent a good chunk of time getting better at programming. There's a lot to explore out there, and I think this collection is good start.
 
-If you think anything on this guide could be improved or should be changed, just make a pull request and/or email me at gabezurita@gmail.com. Here goes!
+If anything on this guide could be improved or should be changed, just make a pull request and/or email me at gabezurita@gmail.com. Here goes!
 
 Prior to beginning, it’s important to be aware of resources to help get you unstuck or to learn more:
 
