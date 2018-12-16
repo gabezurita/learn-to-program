@@ -1,25 +1,33 @@
 # Web Development Basics
-Since finishing Dev Bootcamp and starting my first tech job at Optoro, several friends have asked me for tips on beginning their web development journey. Since I found myself giving the same advice repeatedly, I put together this readme to be a bit more [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) with my life.
+Since finishing the developer bootcamp I attended ([DBC](https://en.wikipedia.org/wiki/Dev_Bootcamp)) and starting my first software engineer job at [Optoro](http://optoro.com/), several friends have asked me for tips on starting their web development journey. Since I found myself giving the same advice repeatedly, I put together this readme to be a bit more [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) with my life.
 
-Most of these resources were found at the code study group that I attend at my company, Optoro. Some came from Dev Bootcamp, where I spent a good chunk of time getting better at programming. There's a lot to explore out there, and I think this collection is good start.
+The resources I've gathered here came from web communities/forums, tech meetups, and the code-study group at my company. There's a lot to explore out there, and I think this collection is good start.
 
-If anything on this guide could be improved or should be changed, just make a pull request and/or email me at gabezurita@gmail.com. Here goes!
+If anything on this guide could be improved or should be changed, just make a pull request and/or email me at gabezurita@gmail.com.
 
 Prior to beginning, it’s important to be aware of resources to help get you unstuck or to learn more:
 
 ## Getting Unstuck
-As you're progressing through these tutorials, you will at times find yourself unable to proceed without outside help. This is normal. 
-* After being stuck for more than 10 minutes or three unsuccessful attempts, search Google for the specific error message or problem you’re attempting to solve. To do this effectively, here's a few [Google search tips](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/).
-* [Stack Overflow](https://stackoverflow.com/) - for a more focused google search, input the error message you’re getting and limit the search to stackoverflow by including "site:stackoverflow.com" in your search string--see [this link](https://www.google.com/search?ei=PRJWW5DJOMjBjwTW2oqAAw&q=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&oq=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&gs_l=psy-ab.3...9291.9872..10082...0.0...106.465.4j1......0....1..gws-wiz.......0i71.EoxpbF8ncwE) for an example. If there are no posts around your error message, feel free to create a new post asking for help. [Here's some guidelines on how ask for help on Stack Overflow](https://stackoverflow.com/help/how-to-ask).    
-* Typing code to learn syntax is an important aspect of learning to program. Do not copy/paste solutions you find on the internet, be sure to type them out.
-* Really try to understand why the found solution works and do not move on until you do. **If you can’t understand the problem and/or its solution, get ahold of a friend who might!**
+As you're progressing through these tutorials, you will at times find yourself feeling stuck. This is normal. Just keep going, and use the following to get yourself unstuck (more details on these later):
+> 1. Think – letting your mind struggle with a problem is an important part of the learning process
+> 2. Read [the documentation of the language you're learning](http://devdocs.io/ruby~2.4/) and [experiment](https://medium.com/@ArielTeague/the-scientific-method-and-programming-d327594f6e39)
+> 3. Search exising questions on Stackoverflow, Google, or Reddit
+> 4. Post a new question on Stackoverlfow, Reddit, or similar online forum
+> 5. If forums fail, ask a question in a slack community such as #DCTechSlack
+> 6. When nothing else works, ask a more experienced friend
 
-## General Tips
-* Get connected to other people who are attempting to learn. There's lots of online and in-person communities, e.g. [DCTech Slack](http://www.dctechslack.com/) and [DC Code Newbie Meetup](https://www.meetup.com/CodeNewbie-DC/).
-* Don’t be afraid to reference (or even simply explore) the [documentation](http://devdocs.io/ruby~2.4/) of the language you’re studying.
-* [Time Management - Pomodoro Timer](https://cirillocompany.de/pages/pomodoro-technique) - Generally speaking, it’s easy to get distracted or to spend one’s time inefficiently -- using the Pomodoro Technique will help you get more done. Here’s a useful [Pomodoro Cheatsheet](http://i.imgur.com/zB4YdEi.png)
-* Podcasts are a great way to get introduced to various tech topics. [Codenewbie](https://www.codenewbie.org/podcast) is a excellent for new developers.
+## General Tips (on the above)
+* [Stack Overflow](https://stackoverflow.com/) - this site will become a close friend of yours. Just use google to find answers to common questions here. For a more focused google search, input the error message you’re getting and limit the search to stackoverflow by including "site:stackoverflow.com" in your search string--see [this link](https://www.google.com/search?ei=PRJWW5DJOMjBjwTW2oqAAw&q=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&oq=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&gs_l=psy-ab.3...9291.9872..10082...0.0...106.465.4j1......0....1..gws-wiz.......0i71.EoxpbF8ncwE) for an example. More google search tips [here](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/). 
+* If there are no posts around your error message, feel free to create a new post asking for help. [Here's some guidelines on how ask for help on Stack Overflow](https://stackoverflow.com/help/how-to-ask).    
+* Spend some time attempting to understand why the found solution works. When we understand is when we grow, so give yourself the chance to learn. It's not about the destination, but journey along the way.
+* Typing code to learn syntax is an important aspect of learning to program. Do not copy/paste solutions you find on the internet, be sure to type them out.
+* No man is an island. Get connected to other people who are attempting to learn. There's lots of online and in-person communities, e.g. [DCTech Slack](http://www.dctechslack.com/) and [DC Code Newbie Meetup](https://www.meetup.com/CodeNewbie-DC/).
+
+## Other Useful Bits
 * Get a text editor to edit code – [Atom](https://atom.io/) is a good one, but there's many alternatives out there.
+* [Time Management - Pomodoro Timer](https://cirillocompany.de/pages/pomodoro-technique) - Generally speaking, it’s easy to get distracted or to spend one’s time inefficiently – using the Pomodoro Technique will help you get more done. Here’s a useful [Pomodoro Cheatsheet](http://i.imgur.com/zB4YdEi.png)
+* Podcasts are a great way to get introduced to various tech topics. [Codenewbie](https://www.codenewbie.org/podcast) is excellent for new developers.
+* If you're feeling distracted or anxious, [try meditating](https://www.youtube.com/watch?v=qxyVCjp48S4). Here's a [one minute meditaiton](https://www.youtube.com/watch?v=c1Ndym-IsQg) you can do to give yourself a break and bring back your focus. Just focus on your breath for bit and then get back to the task at 
 
 # Concepts and Languages
 Here’s some resources to explore, and languages to learn (from top to bottom):
@@ -32,7 +40,7 @@ Let's learn about the infrastructure apps run on
 * Read: Domain concepts -- <a href="http://coding.smashingmagazine.com/2011/05/25/introduction-to-dns-explaining-the-dreaded-dns-delay/" target="_blank">DNS intro</a>, <a href="http://skillcrush.com/2012/04/24/dns/" target="_blank">DNS in-depth</a>, <a href="http://skillcrush.com/2012/07/03/ip-address-2/" target="_blank">IP Address</a>
 * Read: <a href="http://skillcrush.com/2012/04/02/html/" target="_blank">What's HTML?</a>
 
-As an alternative course to any of the below: Udemy has excellent content, though their courses tend to be expensive. Be sure to look for sales there, you can regularly get $200 courses for only $10 (yes, 95% off!). I repeat, do not pay full price, as [Udemy regularly has sales](https://www.reddit.com/r/learnprogramming/comments/6rc5tf/how_often_do_udemy_courses_go_on_sale/) (like a mattress store).
+Now, on to the nitty gritty: web developemnt! In the below secion, I've linked various free online courses. As an alternative to any of the below, Udemy has excellent content, though their courses tend to be expensive. Be sure to look for sales there–you can regularly get $200 courses for only $10 (yes, 95% off!). Do not pay full price, as [Udemy regularly has sales](https://www.reddit.com/r/learnprogramming/comments/6rc5tf/how_often_do_udemy_courses_go_on_sale/) (just like a mattress store).
 
 ## [HTML](http://devdocs.io/html/) & [CSS](http://devdocs.io/css/)
 HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies of the web. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Check [World Wide Web Consortium (W3C)](https://www.w3.org/standards/webdesign/htmlcss) for more info.
@@ -57,21 +65,24 @@ A beginner friendly programming language for the back-end. Feel free to go work 
 * [Exercism -- more difficult exercises](http://exercism.io/languages/ruby/about) -- feel free to skip for now and come back to it later
 
 ## [SQL](https://www.reddit.com/r/explainlikeimfive/comments/1jid0b/eli5_what_is_a_database_and_what_is_sql_language/)
-It's important to learn to work with data (the backbone of the tech world)
+It's important to learn to work with data (the backbone of applications)
 * [Codeacademy](https://www.codecademy.com/learn/learn-sql) and/or [this well made SQL tutorial](http://sqlzoo.net/wiki/SELECT_basics).
 * If you'd like to go more in depth, there's some free, [self-paced Stanford SQL classes](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about) you can explore.
 
 ## [Git](https://guides.github.com/introduction/git-handbook/)
-Managaging changes in app development
+Managaging change in application development is important for progress to be possible, and this is the standard tool for that
 * [Tutorial](https://learngitbranching.js.org/)—some useful resources on [the site](http://try.github.io/).
 * [Thoughtbot video on how git is used in some tech companies](https://thoughtbot.com/upcase/videos/git-workflow)
 
 ## [Ruby on Rails](http://devdocs.io/rails/)
-Let's start making web apps!
+Let's start making web apps! Ruby on Rails does a lot of work behind the scenes to make web app development more accessible, and it's the framework behind many successful tech startups.
 * [Codeacademy](https://www.codecademy.com/learn/learn-rails)
-* Buy a Used or Refurbished [Macbook](https://www.amazon.com/Apple-MacBook-15-4-Inch-Laptop-Yosemite/dp/B00PZLRWVE/ref=pd_sbs_147_4?_encoding=UTF8&pd_rd_i=B00PZLRWVE&pd_rd_r=4S2TWVDYFN5F2HC06GTY&pd_rd_w=yYbjY&pd_rd_wg=cWZlC&psc=1&refRID=4S2TWVDYFN5F2HC06GTY) and [set up your dev environment](https://github.com/codehbs/computer-setup/blob/master/mac-instructions.md)
 * Get more Rails practice through [Rails for Zombies](http://railsforzombies.org/)
-* [Build a ruby on rails web app!](https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/) -- the best way to learn is by making something!
+* Development Environment – this part can be challenging, so hang in there! If you haven't got a laptop in which you can make web apps, you have a few operating system options:
+    1. OSX – this is the easiest alternative, given that most rails tutorials are written for apple's OS. If you haven't got a one, buy a Used or Refurbished [Macbook](https://www.amazon.com/Apple-MacBook-15-4-Inch-Laptop-Yosemite/dp/B00PZLRWVE/ref=pd_sbs_147_4?) and configre your [Rails environment](https://gorails.com/setup/osx/10.14-mojave)
+    2. [Ubuntu](https://help.ubuntu.com/lts/installation-guide/s390x/ch01s01.html) – this is more challenging than OSX, but far cheaper (or free). If you want to go the open source route, [set up Ubuntu](https://howtoubuntu.org/how-to-install-ubuntu-18-04-bionic-beaver) on a PC you're no longer using, a second hard drive, or buy a used or refurbished laptop for cheap, then configure your [Rails environemnt](https://www.howtoforge.com/tutorial/ubuntu-ruby-on-rails/)
+    3. Windows: Most Rails tutorials assume OSX or Ubuntu. Developing ruby on Windows is (strongly) not recommended. If you cannot access any of the above options, try [coding on your browser](https://aws.amazon.com/cloud9/?origin=c9io) with a [Cloud9 Ruby on Rails environment](http://railsapps.github.io/rubyonrails-cloud9.html).
+* Finally, it's time to make your first web app! This alternative example app from [RailsTutorial](https://www.railstutorial.org/book/beginning) is free and excellent. Another option is [this one](https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/)
 ___
 ## Additional Resources
 * This [reddit post](https://amp.reddit.com/r/learnprogramming/comments/43dvma/best_online_courses_you_took/) has some great Computer Science courses
