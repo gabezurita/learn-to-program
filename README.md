@@ -86,6 +86,7 @@ Let's start making web apps! Ruby on Rails does a lot of work behind the scenes 
 * Finally, it's time to make your first web app! This alternative example app from [RailsTutorial](https://www.railstutorial.org/book/beginning) is free and excellent. Another good option is [this one](https://emkaydeum.wordpress.com/2016/04/28/tutorial-build-a-rails-app-using-the-nasa-astronomy-photo-of-the-day-api/), but there are countless free web app tutorials out there!
 ___
 ## Additional Resources
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): If you'd like to learn more, you can use this as your road map. 
 * This [reddit post](https://amp.reddit.com/r/learnprogramming/comments/43dvma/best_online_courses_you_took/) has some great Computer Science courses
 * [edEx course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * [Online Community Resource (such as /r/learnprogramming)](https://www.reddit.com/r/learnprogramming/wiki/index)
