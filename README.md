@@ -59,7 +59,7 @@ The programming language the web (currently) runs on. Here's [some good reasons 
 ## [Ruby](http://devdocs.io/ruby/)
 A beginner friendly programming language for the back-end. Feel free to go work on these things at a programming meetup such as [this one](https://www.meetup.com/dcruby/)!
 * [A good article giving you a general outlook on Ruby](https://hackhands.com/beginners-guide-ruby/)
-* [Codeacademy](https://www.codecademy.com/learn/learn-rails) – it’s good to know [how to read Ruby error messages](https://learn.co/lessons/ruby-lecture-reading-error-messages) prior to starting this.
+* [Codeacademy](https://www.codecademy.com/learn/learn-ruby) – it’s good to know [how to read Ruby error messages](https://learn.co/lessons/ruby-lecture-reading-error-messages) prior to starting this.
 * [Udemy](https://www.udemy.com/learn-to-code-with-ruby-lang/) - this paid course requires you to set up your dev environment. Check the Ruby on Rails section of this document for info on that.
 * [Ruby Koans](http://rubykoans.com/) - great ruby practice. Feel free to come back to this later. Requires environment setup.
 * [Exercism](http://exercism.io/languages/ruby/about) – more difficult exercises, feel free to skip for now and come back to it later.
