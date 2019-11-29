@@ -19,7 +19,7 @@ As you're progressing through these tutorials, you will at times find yourself f
 ## General Tips (on the above)
 * [Stack Overflow](https://stackoverflow.com/) - this site will become a close friend of yours. Just use google to find answers to common questions here. For a more focused google search, input the error message you’re getting and limit the search to stackoverflow by including "site:stackoverflow.com" in your search string--see [this link](https://www.google.com/search?ei=PRJWW5DJOMjBjwTW2oqAAw&q=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&oq=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&gs_l=psy-ab.3...9291.9872..10082...0.0...106.465.4j1......0....1..gws-wiz.......0i71.EoxpbF8ncwE) for an example. More google search tips [here](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/). 
 * If there are no posts around your error message, feel free to create a new post asking for help. [Here's some guidelines on how ask for help on Stack Overflow](https://stackoverflow.com/help/how-to-ask).    
-* Spend some time attempting to understand why the found solution works. When we reach understanding is when we grow, so give yourself the chance to learn. It's not about the destination, but journey along the way.
+* Spend some time attempting to understand why the found solution works. Give yourself the chance to learn!
 * Typing code to learn syntax is an important aspect of learning to program. Do not copy/paste solutions you find on the internet, be sure to type them out.
 * No man is an island. Get connected to other people who are attempting to learn. There's lots of online and in-person communities, e.g. [DCTech Slack](http://www.dctechslack.com/) and [DC Code Newbie Meetup](https://www.meetup.com/CodeNewbie-DC/).
 
@@ -88,13 +88,11 @@ ___
 ## Additional Resources
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): If you'd like to learn more, you can use this as your road map. 
 * This [reddit post](https://amp.reddit.com/r/learnprogramming/comments/43dvma/best_online_courses_you_took/) has some great Computer Science courses
-* [edEx course](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
-* [Online Community Resource (such as /r/learnprogramming)](https://www.reddit.com/r/learnprogramming/wiki/index)
-* [Progressive Web Apps](https://developers.google.com/web/ilt/pwa/)
+* [Get some more in-depth experience with edEx courses](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+* [Online community resources (such as /r/learnprogramming) might come in handy](https://www.reddit.com/r/learnprogramming/wiki/index)
 * Programming Puzzles: [The Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) and [Bandit](http://overthewire.org/wargames/bandit/)
 * Programming Katas: [Code Wars](http://www.codewars.com/)
-* [Linux](https://bash.cyberciti.biz/guide/Main_Page)
-* Learning a javascript framework such as [Angular](https://thinkster.io/a-better-way-to-learn-angularjs) and then building a rails app with it is a good exercise. Once you've gotten past that, you can then [build a rails app with an Angular frontend](https://thinkster.io/tutorials/angular-rails).
+* Learning a javascript framework such as [VueJS]https://vuejs.org/v2/guide/) and then building the front-end for a rails app with it is a good exercise.
 
 ## Next Steps
 * Volunteer in a programming project through the [Code for America Brigade](http://brigade.codeforamerica.org/brigade/)
