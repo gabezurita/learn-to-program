@@ -93,6 +93,7 @@ ___
 * Programming Puzzles: [The Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) and [Bandit](http://overthewire.org/wargames/bandit/)
 * Programming Katas: [Code Wars](http://www.codewars.com/)
 * Learning a javascript framework such as [VueJS](https://vuejs.org/v2/guide/) and then building the front-end for a rails app with it is a good exercise.
+* This [roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d) is a good resource to figure out where to specialize (back-end, front-end, or devops)
 
 ## Next Steps
 * Volunteer in a programming project through the [Code for America Brigade](http://brigade.codeforamerica.org/brigade/)
