@@ -92,7 +92,7 @@ ___
 * [Online community resources (such as /r/learnprogramming) might come in handy](https://www.reddit.com/r/learnprogramming/wiki/index)
 * Programming Puzzles: [The Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) and [Bandit](http://overthewire.org/wargames/bandit/)
 * Programming Katas: [Code Wars](http://www.codewars.com/)
-* Learning a javascript framework such as [VueJS]https://vuejs.org/v2/guide/) and then building the front-end for a rails app with it is a good exercise.
+* Learning a javascript framework such as [VueJS](https://vuejs.org/v2/guide/) and then building the front-end for a rails app with it is a good exercise.
 
 ## Next Steps
 * Volunteer in a programming project through the [Code for America Brigade](http://brigade.codeforamerica.org/brigade/)
