@@ -1,5 +1,5 @@
 # Web Development Basics
-Since finishing the developer bootcamp I attended ([DBC](https://en.wikipedia.org/wiki/Dev_Bootcamp)) and starting my first software engineer job at [Optoro](http://optoro.com/), several friends have asked me for tips on starting their web development journey. Since I found myself giving the same advice repeatedly, I put together this readme to be a bit more [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) with my life.
+Several friends have asked me for tips on starting their web development journey, and since I found myself giving the same advice repeatedly, I put together this readme to be a bit more [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) with my life.
 
 The resources I've gathered here came from web communities/forums, tech meetups, and the code-study group at my company. There's a lot to explore out there, and I think this readme is a good start.
 
