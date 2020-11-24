@@ -11,13 +11,13 @@ Prior to beginning, it’s important to be aware of resources to help get you un
 As you're progressing through these tutorials, you will at times find yourself feeling stuck. This is normal. Just keep going, and use the following to get yourself unstuck (more details on these later):
 1. Think – letting your mind struggle with a problem is an important part of the learning process
 2. Read [the documentation of the language you're learning](http://devdocs.io/ruby~2.4/) and [experiment](https://medium.com/@ArielTeague/the-scientific-method-and-programming-d327594f6e39)
-3. Search exising questions on Stackoverflow, Google, or Reddit
+3. Search for exising questions/answers on Stackoverflow, or Reddit (using Google)
 4. Post a new question on Stackoverlfow, Reddit, or similar online forum
 5. If forums fail, ask a question in a slack community such as #DCTechSlack
 6. When nothing else works, ask a more experienced friend
 
 ## General Tips (on the above)
-* [Stack Overflow](https://stackoverflow.com/) - this site will become a close friend of yours. Just use google to find answers to common questions here. For a more focused google search, input the error message you’re getting and limit the search to stackoverflow by including "site:stackoverflow.com" in your search string--see [this link](https://www.google.com/search?ei=PRJWW5DJOMjBjwTW2oqAAw&q=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&oq=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&gs_l=psy-ab.3...9291.9872..10082...0.0...106.465.4j1......0....1..gws-wiz.......0i71.EoxpbF8ncwE) for an example. More google search tips [here](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/). 
+* [Stack Overflow](https://stackoverflow.com/) - this site will become a close friend of yours. Just use google to find answers to common questions here. For a more focused google search, input the error message you’re getting and limit the search to stackoverflow by including "site:stackoverflow.com" in your search string--see [link](https://www.google.com/search?ei=PRJWW5DJOMjBjwTW2oqAAw&q=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&oq=%22no+implicit+conversion+from+nil+to+integer%22+ruby+site%3Astackoverflow.com&gs_l=psy-ab.3...9291.9872..10082...0.0...106.465.4j1......0....1..gws-wiz.......0i71.EoxpbF8ncwE) for an example. More google search tips [here](https://www.reddit.com/r/LifeProTips/comments/3yis0k/lpt_how_to_get_the_most_out_of_googlesearch/). 
 * If there are no posts around your error message, feel free to create a new post asking for help. [Here's some guidelines on how ask for help on Stack Overflow](https://stackoverflow.com/help/how-to-ask).    
 * Spend some time attempting to understand why the found solution works. Give yourself the chance to learn!
 * Typing code to learn syntax is an important aspect of learning to program. Do not copy/paste solutions you find on the internet, be sure to type them out.
